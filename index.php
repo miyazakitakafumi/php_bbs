@@ -8,5 +8,6 @@
     <body>
         <h1>BBS Test</h1>
         <p>test</p>
+        <p>test2</p>
     </body>
 </html>
